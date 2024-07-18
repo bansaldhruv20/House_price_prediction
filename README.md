@@ -13,10 +13,6 @@ The project focuses on developing a predictive model for house prices based on a
 - **HTML, CSS**: Frontend development for creating a user-friendly web application interface.
 - **Flask**: Backend framework for integrating the predictive model and serving predictions.
 
-## Project Duration
-
-May 2024 - July 2024
-
 ## Features
 
 - **Predictive Model Development**: Developed models using Linear Regression and Ensemble Techniques to predict house prices effectively.
